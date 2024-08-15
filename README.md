@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I play Ice Hockey
 
-[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
+[![RobJT-wq's github stats](https://github-readme-stats.vercel.app/api?username=RobJT-wq&theme=dark)](https://github.com/RobJT-wq/github-readme-stats)
